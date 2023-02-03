@@ -1,0 +1,24 @@
+.Clores-container{
+  display: flex;  
+  
+}
+.Left {
+    margin-left: 25rem;
+    margin-top: 5rem;
+    
+}
+.welcome-paragraph{
+    text-align: start;
+    justify-content: space-between;
+    margin-left: 5rem;
+    margin-top: 10rem;
+   
+}
+.welcome{
+    font-family: 'Syne';
+
+}
+.paragraph{
+    font-family: 'DM';
+    color: #999999;;
+}

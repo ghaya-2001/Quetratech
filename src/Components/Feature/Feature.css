@@ -1,0 +1,86 @@
+.feature{
+    background-color:  #757E78;
+    justify-content: space-between;
+   
+   
+}
+.feature-container{
+    display: flex;
+    margin-left: 12rem;
+    
+     
+}
+.left-feature{
+    text-align: start;
+}
+.featuretitle{
+    font-family: 'Syne';
+    color: #252525;
+    font-size: 2rem;
+    margin-top: 8rem;
+    
+
+
+}
+.feature-paragraph{
+    color:  #E0E1E0 ;
+    font-size: 0.8rem;
+
+
+}
+.feature-button{
+    position: absolute;
+    border-radius: 0px;
+    border:black;
+    color: white;
+    background-color:#252525;
+    font-size: 10px;
+    padding: 11px 26px 11px 26px ;
+    cursor: pointer;
+}
+.right-feature{
+    margin-left: 10rem;
+    margin-top: 5rem;
+   justify-content: space-between;
+
+}
+
+.Products{
+    transform: scale(0.8);
+    display: flex;
+}
+.product1{
+    margin-right: 2rem;
+}
+.product2{
+    margin-right: 2rem;
+}
+.price{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.price1{
+    position: absolute;
+    top: 15rem;
+    color: white;
+    text-align: start;
+    padding-left: 2rem;
+    font-family: 'DM Sans';
+}
+.price2{
+    position: absolute;
+    top: 15rem;
+    color: white;
+    text-align: start;
+    padding-left: 2rem;
+    font-family: 'DM Sans';
+}
+.price3{
+    position: absolute;
+    top: 15rem;
+    color: white;
+    text-align: start;
+    padding-left: 2rem;
+    font-family: 'DM Sans';
+}
