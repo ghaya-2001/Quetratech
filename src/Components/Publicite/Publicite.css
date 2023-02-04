@@ -2,34 +2,132 @@
     background-color: #757E78;
    
 }
+
+
+/*content of images */
+/*content1*/
+.accessories{
+position: absolute;
+text-align: start;
+color: white;
+margin-left: 25rem;
+
+}
+.p1{
+   font-family: 'Syne'; 
+   font-size: 2rem;
+   position: absolute;
+   margin-top: 30rem;
+ 
+}
+.p2{
+    font-family: 'Manrope';
+    font-size: 1rem;
+    position: absolute;
+    margin-top: 35rem;
+}
+/*content2*/
+.seed{
+    position: absolute;
+    text-align: start;
+    color: white;
+    margin-left: 25rem;
+}
+.p3{
+    font-family: 'Syne'; 
+    font-size: 2rem;
+    position: absolute;
+    margin-top: 65rem;
+
+
+}
+.p4{
+    font-family: 'Manrope';
+    font-size: 1rem;
+    position: absolute;
+    margin-top: 70rem;
+
+}
+/*content*/
+.shipping{
+    color: white;
+    position: absolute;
+    text-align: start;
+    margin-left: 54rem;
+}
+.p5{
+    font-family: 'Syne'; 
+    font-size: 2rem;
+    position: absolute;
+    margin-top: 65rem;
+
+}
+.p6{
+    font-family: 'Manrope';
+    font-size: 1rem;
+    position: absolute;
+    margin-top: 70rem;
+
+}
+
+/*content4*/
+.newarrival{
+    position: absolute;
+    text-align: start;
+    color: white;
+    margin-left: 54rem; 
+}
+.p7{
+    font-family: 'Syne'; 
+   font-size: 2rem;
+   position: absolute;
+   margin-top: 30rem;
+
+}
+.p8{
+    font-family: 'Manrope';
+    font-size: 1rem;
+    position: absolute;
+    margin-top: 35rem;
+}
+
+
+
+
+/*Images*/
 .pub{
     transform: scale(0.8);
+    opacity:0.5; 
+   
 }
 
 .Accessories{
-    margin-top: 2rem;
+    margin-top: 1rem;
     padding-left: 2rem;
     margin-bottom: 2rem;
-   
+    
+  
 }
 .Newarrival{
     margin-top: 10rem;
     padding-left: 2rem;
-    margin-bottom: 0.01rem;
+    
   
  
 }
-.Seeds{
-    
-    padding-top: 1rem;
+.Seeds{ 
+    margin-top: 1rem;
     padding-left: 2rem;
-    margin-bottom: 10rem;
-
+    margin-bottom: 2rem;
 }
 .Shipping{
-    padding-top: 0rem;
+    margin-top: 10rem;
     padding-left: 2rem;
-    margin-bottom: 3rem;
+   
+
    
 }
+
+
+
 /* still not working on the phone screen */
