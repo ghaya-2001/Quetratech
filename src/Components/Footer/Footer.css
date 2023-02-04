@@ -2,7 +2,7 @@
     width: 100%;
     height: 50vh;
     background-color: black;
-    margin-top: -13rem;
+    margin-top: -10rem;
     
 }
 .footer-container{
@@ -13,12 +13,20 @@
     align-items: center;
     color: aliceblue;
 }
+
 /*left side*/
 .left{
    margin-bottom:-0.2rem ; 
    text-align: start ;
    margin-left: 5rem;
+   
+ 
 
+}
+
+.footer-img{
+    transform: scale(0.1);
+   
 }
 /*footer paragraph*/
 .p{
