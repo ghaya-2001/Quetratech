@@ -2,23 +2,34 @@
     background-color: #757E78;
    
 }
-
+.pub{
+    transform: scale(0.8);
+}
 
 .Accessories{
-    padding-top: 3rem;
-}
-.Newarrival{
     margin-top: 2rem;
     padding-left: 2rem;
+    margin-bottom: 2rem;
+   
+}
+.Newarrival{
+    margin-top: 10rem;
+    padding-left: 2rem;
+    margin-bottom: 0.01rem;
+  
  
 }
 .Seeds{
-    padding-top: 2rem;
     
+    padding-top: 1rem;
+    padding-left: 2rem;
+    margin-bottom: 10rem;
 
 }
 .Shipping{
-    padding-top: 6rem;
+    padding-top: 0rem;
     padding-left: 2rem;
+    margin-bottom: 3rem;
+   
 }
 /* still not working on the phone screen */

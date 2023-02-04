@@ -20,7 +20,7 @@ const NavBar =() =>{
 
     return(
 
-        <div className={color?"header header-bg":"header"}> 
+        <div className={color?"header header-bg" :"header"}> 
            <img className='h1' src={LogoWhite} alt='' />
             <ul className='nav-menu'>        
            <ul><Link spy={true} to='NavBar'  smooth={true} activeClass='activeClass'>About us </Link> </ul> 
