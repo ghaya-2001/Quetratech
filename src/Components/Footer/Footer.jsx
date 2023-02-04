@@ -1,20 +1,22 @@
 import React from 'react';
+import LogoWhite from '../../img/LogoWhite.png';
 
 import './Footer.css'
 const Footer =() =>{
     return(
         <div className="footer">
+            
             <div className="footer-container">
-                <div className='left'>
                 
+                <div className='left'>
                 <p className='p'>We’re your online houseplant destination.<br/> We offer a wide range of houseplants and <br/>accessories shipped directly from our <br/>green-house to yours!</p>
                 <h4 className='exc'>Exclusive offers & first and first access to products</h4>
                 <input type="text" name='user_name' className='email'placeholder='Email'/>
-               
                  </div>
-               
+                 
                 <div className='right'>
                     <div className='list'>
+                   
                     <ul>
                         <h4 className='h4'>About</h4>
                         <div className='parg'>
