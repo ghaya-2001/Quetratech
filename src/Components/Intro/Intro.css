@@ -83,7 +83,7 @@
   border-radius: 145.363px 145.363px 0px 0px;;
 
 }
-/* un petit ecran */
+/* start working on phone screen  */
 @media screen and(max-width:640px) {
   .Intro .content{
     position: absolute;

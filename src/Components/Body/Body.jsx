@@ -35,22 +35,25 @@ const Body =() =>{
         <div className="body">
           {/**contenu 1 */}
           <div className='Body'>
+          <h1 className='body-h'>Find Your Perfect Plant</h1>
+          <button className='bodybutton'>Get Started </button>
           <div>
              <img  className='body-img' src={Quiz}/>
           </div>
-          <div>
-            <h1 className='body-h'>Find Your Perfect Plant</h1>
-          </div>
+         
           </div>
 
           {/**contenu 2 */}
-           <div className="Body1">
+           <div className="Body2">
                 <h1 className='body-h1'>Plant care instructions </h1>
-            </div>  
+                <p className='bodyp'>A plant-o-pedia of information</p>
+                <button className='bodybutton1'>Care Guides</button>
+            </div> 
             <div>  
-                <img className='bodyplantcare' src={Plantcare} alt=''/> 
+                <img  src={Plantcare} alt=''/> 
+                
             </div>
-
+            
 
           {/**dernier contenu  */}
          <div className='debut '>

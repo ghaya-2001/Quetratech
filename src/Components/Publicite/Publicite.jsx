@@ -12,10 +12,10 @@ const Publicite =() =>{
     return(
        <div className='publicite'>
         
-        
+        <div>
         <img className='Accessories' src={Accessories}/>  
         <img className='Newarrival' src={Newarrival}/>
-        
+       
 
        
       
@@ -24,7 +24,7 @@ const Publicite =() =>{
        
        
        </div>
-
+       </div>
       
         
     )
