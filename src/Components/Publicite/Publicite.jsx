@@ -15,25 +15,7 @@ const Publicite =() =>{
        
         {/**content of images */}
         <div >
-        <div className='all'>
-
-        <div className='accessories' >
-        <p className='p1'>HousePlantAccessories</p>
-        <p className='p2'>Seemore </p>
-       </div>
-       <div className='seed' >
-        <p className='p3'>SeedPackets </p>
-        <p className='p4'>Seemore </p>
-       </div>
-       <div className='shipping' >
-        <p className='p5'>ShippingInfo</p>
-        <p className='p6'>Seemore </p>
-       </div>
-       <div className='newarrival' >
-        <p className='p7'>NewArrivals</p>
-        <p className='p8'>Seemore </p>
-       </div>
-        </div>
+       
         
        
 
@@ -44,6 +26,25 @@ const Publicite =() =>{
         <img className='Seeds' src={Seeds}/>
         <img className='Shipping' src={Shipping}/>
        </div>
+       <div className='all'>
+
+<div className='accessories' >
+<p className='p1'>SeedPacket</p>
+<p className='p2'>Seemore </p>
+</div>
+<div className='seed' >
+<p className='p3'>HousePlantAccessories</p>
+<p className='p4'>Seemore </p>
+</div>
+<div className='shipping' >
+<p className='p5'>ShippingInfo</p>
+<p className='p6'>Seemore </p>
+</div>
+<div className='newarrival' >
+<p className='p7'>NewArrivals</p>
+<p className='p8'>Seemore </p>
+</div>
+</div>
       
        
        </div>

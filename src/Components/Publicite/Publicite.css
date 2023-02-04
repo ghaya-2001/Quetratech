@@ -17,14 +17,14 @@ margin-left: 25rem;
    font-family: 'Syne'; 
    font-size: 2rem;
    position: absolute;
-   margin-top: 30rem;
+   margin-top: -20rem;
  
 }
 .p2{
     font-family: 'Manrope';
     font-size: 1rem;
     position: absolute;
-    margin-top: 35rem;
+    margin-top: -15rem;
 }
 /*content2*/
 .seed{
@@ -37,7 +37,7 @@ margin-left: 25rem;
     font-family: 'Syne'; 
     font-size: 2rem;
     position: absolute;
-    margin-top: 65rem;
+    margin-top: -55rem;
 
 
 }
@@ -45,10 +45,10 @@ margin-left: 25rem;
     font-family: 'Manrope';
     font-size: 1rem;
     position: absolute;
-    margin-top: 70rem;
+    margin-top: -50rem;
 
 }
-/*content*/
+/*content3*/
 .shipping{
     color: white;
     position: absolute;
@@ -59,14 +59,14 @@ margin-left: 25rem;
     font-family: 'Syne'; 
     font-size: 2rem;
     position: absolute;
-    margin-top: 65rem;
+    margin-top: -55rem;
 
 }
 .p6{
     font-family: 'Manrope';
     font-size: 1rem;
     position: absolute;
-    margin-top: 70rem;
+    margin-top: -50rem;
 
 }
 
@@ -81,14 +81,14 @@ margin-left: 25rem;
     font-family: 'Syne'; 
    font-size: 2rem;
    position: absolute;
-   margin-top: 30rem;
+   margin-top: -20rem;
 
 }
 .p8{
     font-family: 'Manrope';
     font-size: 1rem;
     position: absolute;
-    margin-top: 35rem;
+    margin-top: -15rem;
 }
 
 
@@ -97,7 +97,7 @@ margin-left: 25rem;
 /*Images*/
 .pub{
     transform: scale(0.8);
-    opacity:0.5; 
+   
    
 }
 
